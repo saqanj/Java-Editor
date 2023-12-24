@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ArraySequenceTest" tests="13" skipped="0" failures="0" errors="0" timestamp="2023-11-18T19:12:49" hostname="10-252-186-163.student.trincoll.edu" time="0.047">
+  <properties/>
+  <testcase name="before()" classname="ArraySequenceTest" time="0.023"/>
+  <testcase name="equals()" classname="ArraySequenceTest" time="0.001"/>
+  <testcase name="addLast()" classname="ArraySequenceTest" time="0.001"/>
+  <testcase name="addElements()" classname="ArraySequenceTest" time="0.001"/>
+  <testcase name="remove()" classname="ArraySequenceTest" time="0.001"/>
+  <testcase name="atIndex()" classname="ArraySequenceTest" time="0.001"/>
+  <testcase name="get()" classname="ArraySequenceTest" time="0.001"/>
+  <testcase name="set()" classname="ArraySequenceTest" time="0.0"/>
+  <testcase name="last()" classname="ArraySequenceTest" time="0.001"/>
+  <testcase name="after()" classname="ArraySequenceTest" time="0.001"/>
+  <testcase name="empty()" classname="ArraySequenceTest" time="0.002"/>
+  <testcase name="first()" classname="ArraySequenceTest" time="0.001"/>
+  <testcase name="removalAll()" classname="ArraySequenceTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

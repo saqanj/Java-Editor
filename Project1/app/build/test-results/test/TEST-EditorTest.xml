@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="EditorTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2023-11-18T19:12:49" hostname="10-252-186-163.student.trincoll.edu" time="0.019">
+  <properties/>
+  <testcase name="emptyEditor()" classname="EditorTest" time="0.001"/>
+  <testcase name="testEditor()" classname="EditorTest" time="0.017"/>
+  <system-out><![CDATA[====================
+The initial document
+
+{Narnia...where the woods are thick and cool, where Talking Beasts are called to
+life, the land beyond the wardrobe, the secret country known only to Peter,
+Susan, Edmund, and Lucy. Narnia...where horses talk and hermits like company,
+where evil men turn into donkeys, where boys go into battle.
+Narnia...the land between the lamp-post and the castle of Cair Paravel,
+where animals talk, where magical things happen,the world of wicked dragons
+and magic spells, where the very best is brought out of even the worst people,
+where anything can happen(and most oftan does).
+Narnia...where owls are wise, where some of the giants like to
+snack on humans (and, if carefully cooked, on Marsh-wiggles, too),
+where a prince is put under an evil spell.
+Narnia...where dwarfs are loyal and tough and strong-or are they?}
+
+====================
+The middle document
+
+{Narnia... where the woods are thick and cool, where Talking Beasts are called to
+life, the land beyond the wardrobe, the secret country known only to Peter,
+Susan, Edmund, and Lucy. Narnia...where horses talk and hermits like company,
+where evil men turn into donkeys, where boys and girls go into battle.
+
+Narnia... the land between the lamp-post and the castle of Cair Paravel,
+where animals talk, where magical things happen, the world of wicked deans
+and magic spells, where the very best is brought out of even the worst people,
+where anything can happen(and most oftan does).
+
+Narnia... where professors are wise, where some of the giants like to
+snack on students (and, if carefully cooked, on Marsh-wiggles, too),
+where a prince is put under an evil spell.
+
+Narnia... where dwarfs are loyal and tough and strong-or are they?}
+
+====================
+The final document
+
+{Narnia... where the woods are thick and cool, where Talking Beasts are called to
+life, the land beyond the wardrobe, the secret country known only to Peter,
+Susan, Edmund, and Lucy.
+
+Narnia... where horses talk and hermits like company,
+where evil men turn into donkeys, where boys and girls go into battle.
+
+Narnia... the land between the lamp-post and the castle of Cair Paravel,
+where animals talk, where magical things happen, the world of wicked deans
+and magic spells, where the very best is brought out of even the worst people,
+where anything can happen (and most often does).
+
+Narnia... where owls are wise, where some of the giants like to
+snack on students (and, if carefully cooked, on Marsh-wiggles, too),
+where a prince is put under an evil spell.
+
+Narnia... where dwarfs are loyal and tough and strong---or are they really?}
+
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
