@@ -1,3 +1,3 @@
-- Project utilizes Gradle wrapper for testing. Completed as a part of Trinity College's Data Structures and Algorithms course.
+- Project utilizes Gradle wrapper for integration and unit testing. Completed as a part of Trinity College's Data Structures and Algorithms course.
 - All classes implemented by me are properly Javadocumented with my name.
 - Source code is located under "src" file.
