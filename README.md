@@ -1,8 +1,10 @@
 - AUTHOR: Saqlain Anjum & Trinity College Computer Science Department
-- Project utilizes Gradle wrapper for integration and unit testing. Completed as a part of Trinity College's Data Structures and Algorithms course.
-- Implemented Classes:
-  - ArraySequence
-  - MyTextEditor
-  - ArraySequenceTest
-  - EditorTest
+- DESCRIPTION:
+  - A text editor application using Java. Operates on a line-by-line basis for editing functions.
+  - Project utilizes Gradle wrapper for integration and unit testing. Completed as a part of Trinity College's Data Structures and Algorithms course.
+  - Implemented Classes:
+    - ArraySequence
+    - MyTextEditor
+    - ArraySequenceTest
+    - EditorTest
 - PS: Source code is located under "src" file!
