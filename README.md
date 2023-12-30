@@ -1,6 +1,8 @@
+- AUTHOR: Saqlain Anjum & Trinity College Computer Science Department
 - Project utilizes Gradle wrapper for integration and unit testing. Completed as a part of Trinity College's Data Structures and Algorithms course.
 - Implemented Classes:
-  - a
-  - a
-  - a
+  - ArraySequence
+  - MyTextEditor
+  - ArraySequenceTest
+  - EditorTest
 - PS: Source code is located under "src" file!
