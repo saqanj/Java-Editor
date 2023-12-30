@@ -8,4 +8,4 @@
     - ArraySequenceTest
     - EditorTest
 - VERSION: 1.0.0
-- PS: Source code is located under "app/src" directory!
+- PS: Source code is located under "Project1/app/src" directory!
