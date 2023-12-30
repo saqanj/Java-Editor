@@ -7,5 +7,5 @@
     - MyTextEditor
     - ArraySequenceTest
     - EditorTest
-  - VERSION: 1.0.0
+- VERSION: 1.0.0
 - PS: Source code is located under "src" file!
